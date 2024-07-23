@@ -31,7 +31,8 @@ Collaborative working, one of {% data variables.product.prodname_dotcom %}’s f
 
 ## About Git
 
-Git is a version control system that intelligently tracks changes in files. Git is particularly useful when you and a group of people are all making changes to the same files at the same time.
+Git is a version control system that intelligently tracks changes in files.
+Git is particularly useful when you and a group of people are all making changes to the same files at the same time.
 
 Typically, to do this in a Git-based workflow, you would:
 * **Create a branch** off from the main copy of files that you (and your collaborators) are working on.
